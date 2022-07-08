@@ -1,0 +1,1 @@
+# Changes the color theme page to the user has preferences in his OS
